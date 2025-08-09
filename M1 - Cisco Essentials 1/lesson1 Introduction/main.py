@@ -2,9 +2,7 @@
 # comentariu
 
 """
-
-comentariu
-
+acest cod declanseaza bombe nucleare sau nu
 """
 
 nume = input()   # citire din consola
